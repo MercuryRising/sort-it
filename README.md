@@ -3,6 +3,8 @@ sort-it
 
 A game for a /r/dailyprogrammer challenge
 
+Written in Python using pygame.
+
 The idea is to play with different sorting techniques.
 
 Currently only bubble sort is implemented.
